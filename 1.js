@@ -7,3 +7,4 @@
 //tyopesctr
 //maek miove
 //async
+//await
